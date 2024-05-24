@@ -30,4 +30,4 @@
 
 
 ## 폴더에 대한 설명
-- notes : 강의 노트
+- [notes](https://github.com/JinhoKim11/OSS_repo/blob/main/notes) : 강의 노트
